@@ -13,7 +13,8 @@ When I'm not coding, I love diving into tech communities, learning about the lat
 
 
 ## Skills and tools
-
+![스프링부](https://github.com/jia-yoo/jia-yoo/assets/125111394/0365a831-a156-419c-b36a-728194217edc)
+![wkqk](https://github.com/jia-yoo/jia-yoo/assets/125111394/8d508423-ec11-4f9a-b6bd-7d805793f384)
 
 
 ## Outside of coding I enjoy:
