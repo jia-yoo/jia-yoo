@@ -3,22 +3,26 @@
 
 
 ## Hi there 👋
+Hi, I am Jia, a passionate full-stack web Developer with a big heart and an even bigger curiosity. 🌟  
 
-<!--
-**jia-yoo/jia-yoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I might not have all the answers yet, but what I lack in experience, I make up for with a passion for learning and a knack for picking things up quickly. 🌱
 
-Here are some ideas to get you started:
+I believe in the power of asking questions and the magic of learning by doing so. With every error I face and every feature I build, I'm one step closer to becoming a coding wizard. 🧙‍♂️✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not coding, I love diving into tech communities, learning about the latest innovations, and dreaming up creative solutions. Let's create something extraordinary! ✨
 
+
+## Skills and tools
+
+
+
+## Outside of coding I enjoy:
+Watching LCK 🎮
+Baking 🥐
+Coffee ☕
+Crime and investigative documentaries 🖖
+
+I'm always open to new opportunities and collaborations. Check out my projects below, and let's connect!
 
 
 
