@@ -18,10 +18,14 @@ When I'm not coding, I love diving into tech communities, learning about the lat
 <img src="https://github.com/jia-yoo/jia-yoo/assets/125111394/8d508423-ec11-4f9a-b6bd-7d805793f384" width="100"></img>
 <img src="https://blog.kakaocdn.net/dn/r3hxs/btqMRlLrs9B/iWvCla0yiWCVHuAmm2lKCk/img.png" width="120"></img>
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyMjA2MjhfMjUg/MDAxNjU2NDI3ODc1OTQ4.MdYkaiJjxUAHgrOoSa7Hjp0eoI9VkFCr2VSuuD-1xsYg.2x9YikFPl2E8FfdIziIFkDgK6NB-oMJ7xSUq1nvVSbsg.PNG.maestrois/mariadb-icon.png?type=w800" width="100"></img>
-<img src="https://076923.github.io/assets/posts/Etc/MySQL/lecture-1/1.webp" width="120"></img>
 <img src="https://velog.velcdn.com/images/cu1210/post/15b20a49-2fd2-4201-ad3d-359122452538/image.png" width="120"></img>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7OrtM7FfDgFfgOmRqL4R__bU5cjx1ltwy1A&s" width="100"></img>
-<img src="https://miro.medium.com/v2/resize:fit:900/1*TY9uBBO9leUbRtlXmQBiug.png" width="100"></img>
+<img src="https://github.com/user-attachments/assets/2d4d0e90-47f2-446b-9fe2-98df2323568c" width="100"></img>                                                                                                                    
+<img src="https://github.com/user-attachments/assets/5fa52e52-a8b9-43e7-86e3-09a718769078" width="100"></img>                                                                                                       
+<img src="https://github.com/user-attachments/assets/4243fae9-3487-4825-a05e-484a51533b88" width="100"></img>                
+<img src="https://github.com/user-attachments/assets/35ffb7de-9ecf-4fc8-99b4-af76c5854aa7" width="100"></img>  
+
+
 
 
 ## Outside of coding I enjoy:
