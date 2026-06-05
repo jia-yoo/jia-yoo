@@ -1,49 +1,73 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jia%20Yoo&fontAlign=80&fontAlignY=40&color=gradient)
+<svg width="100%" viewBox="0 0 680 160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="160" fill="#FAFAF7"/>
+  <rect x="48" y="36" width="3" height="88" fill="#E6B800" rx="1.5"/>
+  <text x="68" y="76" font-family="'Noto Sans KR', sans-serif" font-size="38" font-weight="700" fill="#1a1a1a" letter-spacing="-0.5">유지아</text>
+  <text x="70" y="100" font-family="'Noto Sans KR', sans-serif" font-size="14" font-weight="400" fill="#777" letter-spacing="0.15em">YOO JIA</text>
+  <rect x="68" y="112" width="238" height="24" rx="3" fill="rgba(230,184,0,0.22)"/>
+  <text x="78" y="128" font-family="'Noto Sans KR', sans-serif" font-size="12" font-weight="500" fill="#7a5c00" letter-spacing="0.05em">Java / Spring Backend Developer</text>
+  <text x="480" y="65" font-family="'Noto Sans KR', sans-serif" font-size="11" font-weight="400" fill="#aaa" letter-spacing="0.1em" text-anchor="middle">일 처리 데이터</text>
+  <text x="480" y="90" font-family="'Noto Sans KR', sans-serif" font-size="28" font-weight="700" fill="#1a1a1a" text-anchor="middle">150만 건</text>
+  <line x1="548" y1="50" x2="548" y2="110" stroke="#e0e0d8" stroke-width="0.5"/>
+  <text x="614" y="65" font-family="'Noto Sans KR', sans-serif" font-size="11" font-weight="400" fill="#aaa" letter-spacing="0.1em" text-anchor="middle">응답시간 개선</text>
+  <text x="614" y="90" font-family="'Noto Sans KR', sans-serif" font-size="28" font-weight="700" fill="#1a1a1a" text-anchor="middle">98%</text>
+  <line x1="48" y1="148" x2="632" y2="148" stroke="#e6b800" stroke-width="0.8" opacity="0.4"/>
+</svg>
 
+## 유지아 · Java/Spring 백엔드 개발자
 
+일 150만 건 데이터 처리, 조회 응답시간 98% 개선 등  
+실제 운영 환경에서 구조적 문제를 직접 설계하고 해결한 경험을 강점으로 삼고 있습니다.  
+스마트팩토리 MES, SCADA 연동, 농협 APC 시스템 등 다양한 산업 도메인에서  
+이기종 장비 연동부터 대용량 데이터 처리까지 폭넓은 백엔드 개발을 경험했습니다.
 
-## Hi there 👋
-Hi, I am Jia, a passionate full-stack web Developer with a big heart and an even bigger curiosity. 🌟  
+---
 
-I might not have all the answers yet, but what I lack in experience, I make up for with a passion for learning and a knack for picking things up quickly. 🌱
+## 🛠 Tech Stack
 
-I believe in the power of asking questions and the magic of learning by doing so. With every error I face and every feature I build, I'm one step closer to becoming a coding wizard. 🧙‍♂️✨
+**Backend**  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square)
 
-When I'm not coding, I love diving into tech communities, learning about the latest innovations, and dreaming up creative solutions. Let's create something extraordinary! ✨
+**Database**  
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
+**Frontend**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 
-## Skills and tools
+**Infra / Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://godbell.kr/content/images/2022/11/20220607_001840_0001.png" width="120">
-    <img src="https://github.com/jia-yoo/jia-yoo/assets/125111394/8d508423-ec11-4f9a-b6bd-7d805793f384" width="100">
-    <img src="https://blog.kakaocdn.net/dn/r3hxs/btqMRlLrs9B/iWvCla0yiWCVHuAmm2lKCk/img.png" width="120">
-    <img src="https://mblogthumb-phinf.pstatic.net/MjAyMjA2MjhfMjUg/MDAxNjU2NDI3ODc1OTQ4.MdYkaiJjxUAHgrOoSa7Hjp0eoI9VkFCr2VSuuD-1xsYg.2x9YikFPl2E8FfdIziIFkDgK6NB-oMJ7xSUq1nvVSbsg.PNG.maestrois/mariadb-icon.png?type=w800" width="100">
-    <img src="https://velog.velcdn.com/images/cu1210/post/15b20a49-2fd2-4201-ad3d-359122452538/image.png" width="120">
-    <img src="https://github.com/user-attachments/assets/2d4d0e90-47f2-446b-9fe2-98df2323568c" width="100">
-    <img src="https://github.com/user-attachments/assets/5fa52e52-a8b9-43e7-86e3-09a718769078" width="200">
-    <img src="https://github.com/user-attachments/assets/4243fae9-3487-4825-a05e-484a51533b88" width="200">
-    <img src="https://github.com/user-attachments/assets/35ffb7de-9ecf-4fc8-99b4-af76c5854aa7" width="200">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7OrtM7FfDgFfgOmRqL4R__bU5cjx1ltwy1A&s" width="100">
-</div>
+---
 
+## 📂 실무 프로젝트
 
-## Outside of coding I enjoy:
-Watching LCK 🎮
+| 프로젝트 | 기간 | 주요 성과 |
+|---|---|---|
+| [한반도농협 스마트 APC 시스템](https://github.com/jia-yoo/smart-apc-system) | 2025.05 – 2025.10 | 특허 출원 · aT 디지털 전환 선도모델 선정 · 일 150만 건 처리 |
+| [광우 MES-SCADA 연동 시스템](https://github.com/jia-yoo/mes-scada-integration-system) | 2025.08 – 2025.12 | 조회 응답시간 98% 개선 · 데이터 누락 0건 |
+| [신성산업 스마트팩토리 MES](https://github.com/jia-yoo/smartfactory-mes-system) | 2025.08 – 2026.03 | 사내 최초 웹 기반 현장 프로그램 구축 · 이후 표준 구조 채택 |
 
-Baking 🥐
+---
 
-Coffee ☕
+## 🏅 자격증
 
-Crime and investigative documentaries 🖖
+- 정보처리기사 (2024.09)
+- SQL개발자 SQLD (2024.12)
+- 리눅스마스터 2급 (2025.10)
 
-I'm always open to new opportunities and collaborations. Check out my projects below, and let's connect!
+---
 
+## 📊 GitHub Stats
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jia-yoo&show_icons=true&theme=default&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jia-yoo&layout=compact&hide_border=true)](https://github.com/jia-yoo)
 
+---
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jia-yoo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jia-yoo&layout=compact)](https://github.com/delay-100/github-readme-stats)
-
-
+📬 jiayoo.dev@gmail.com · [Portfolio](https://jia-yoo.github.io)
