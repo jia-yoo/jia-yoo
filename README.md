@@ -1,17 +1,4 @@
-<svg width="100%" viewBox="0 0 680 160" xmlns="http://www.w3.org/2000/svg">
-  <rect width="680" height="160" fill="#FAFAF7"/>
-  <rect x="48" y="36" width="3" height="88" fill="#E6B800" rx="1.5"/>
-  <text x="68" y="76" font-family="'Noto Sans KR', sans-serif" font-size="38" font-weight="700" fill="#1a1a1a" letter-spacing="-0.5">유지아</text>
-  <text x="70" y="100" font-family="'Noto Sans KR', sans-serif" font-size="14" font-weight="400" fill="#777" letter-spacing="0.15em">YOO JIA</text>
-  <rect x="68" y="112" width="238" height="24" rx="3" fill="rgba(230,184,0,0.22)"/>
-  <text x="78" y="128" font-family="'Noto Sans KR', sans-serif" font-size="12" font-weight="500" fill="#7a5c00" letter-spacing="0.05em">Java / Spring Backend Developer</text>
-  <text x="480" y="65" font-family="'Noto Sans KR', sans-serif" font-size="11" font-weight="400" fill="#aaa" letter-spacing="0.1em" text-anchor="middle">일 처리 데이터</text>
-  <text x="480" y="90" font-family="'Noto Sans KR', sans-serif" font-size="28" font-weight="700" fill="#1a1a1a" text-anchor="middle">150만 건</text>
-  <line x1="548" y1="50" x2="548" y2="110" stroke="#e0e0d8" stroke-width="0.5"/>
-  <text x="614" y="65" font-family="'Noto Sans KR', sans-serif" font-size="11" font-weight="400" fill="#aaa" letter-spacing="0.1em" text-anchor="middle">응답시간 개선</text>
-  <text x="614" y="90" font-family="'Noto Sans KR', sans-serif" font-size="28" font-weight="700" fill="#1a1a1a" text-anchor="middle">98%</text>
-  <line x1="48" y1="148" x2="632" y2="148" stroke="#e6b800" stroke-width="0.8" opacity="0.4"/>
-</svg>
+<img src="banner.svg" width="100%"/>
 
 ## 유지아 · Java/Spring 백엔드 개발자
 
